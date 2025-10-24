@@ -9,6 +9,12 @@ Go to `https://www.java.com/en/download/manual.jsp` and install Java.
 
 **LINUX ONLY:** you can install java by typing `sudo apt install openjdk-21-jre`
 
+## How to set up a server
+
+Make sure that the server's jar file is named `server.jar` or it will not work.
+
+If you want to run a batch/shell script on server startup, have a file inside the server folder named `start.sh` or `start.bat`
+**Note: the start scripts do not close when the server closes.**
 
 ### Windows
 
