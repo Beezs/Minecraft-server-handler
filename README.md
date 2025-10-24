@@ -5,6 +5,8 @@ I made this for my own minecraft server for my friends, and I thought to share t
 
 ### Installing Java
 
+
+
 Go to `https://www.java.com/en/download/manual.jsp` and install Java.
 
 **LINUX ONLY:** you can install java by typing `sudo apt install openjdk-21-jre`
