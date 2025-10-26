@@ -1,0 +1,7 @@
+{
+  "DarkMode": false,
+  "AutoRestartSeconds": -1, "_comment": "-1 means no auto restart.",
+  "BackupIntervalSeconds": 86400,
+  "Restart Priority": [], "_comment": "Type server names, first item in list restarts first, secound item resarts secound.",
+  "_comment": "^ Required, only servers in here will restart"
+}
