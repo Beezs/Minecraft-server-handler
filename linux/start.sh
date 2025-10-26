@@ -1,2 +1,2 @@
 #!/bin/bash
-java -Xmx2G -jar "$(dirname "$0")/main.jar"
+nohup java -jar main.jar >/dev/null 2>&1 &
